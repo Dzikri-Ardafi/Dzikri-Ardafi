@@ -1,4 +1,8 @@
 
+<div align="center">
+  <img height="350"  src="https://github.com/Dzikri-Ardafi/Dzikri-Ardafi/assets/99666120/effd50bb-99e6-4580-80e4-1b4125424b3b" style="border-radius: 50%;" />
+</div>
+
 
 ###
 
@@ -12,7 +16,7 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">Hey there 👋</h1>
 
 ###
 
