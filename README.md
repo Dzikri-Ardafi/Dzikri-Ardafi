@@ -1,12 +1,8 @@
 
 <div align="center">
-  <img height="350"  src="https://github.com/Dzikri-Ardafi/Dzikri-Ardafi/assets/99666120/effd50bb-99e6-4580-80e4-1b4125424b3b" style="border-radius: 50%;" />
-</div>
-
-
-###
-
-<div align="center">
+  <a href="https://dzikri-ardafi.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-1abc9c?style=for-the-badge&logo=vercel&labelColor=black" height="25" alt="portfolio link" />
+  </a>
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
   <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
@@ -23,8 +19,10 @@
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
-
-<p align="left">I'm Dzikri Ardafi, a web developer with expertise in the following technologies:<br><br>- 🔭 Currently working on web development projects<br>- 📚 Learning and exploring new technologies in the web development field<br>- ⚡ Enjoy contributing to open source projects and coding in my free time</p>
+<p align="left">I'm Dzikri Ardafi, a web developer with expertise in the following technologies:<br><br>
+- 🔭 Currently working as an ABAP Developer<br>
+- 🎓 Graduated from the Certified Independent Study program for 1 year, student training for 3 months, and internship program for 6 months<br>
+- ⚡ Skilled in using React JS and Vue JS as JavaScript frameworks for developing websites</p>
 
 ###
 
@@ -46,6 +44,8 @@
   <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--U_zehYXY--/c_imagga_scale,f_auto,fl_progressive,h_500,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/dzro862c8wjfpshr6xou.png" height="40" alt="vuex logo" />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Pinialogo.svg" height="40" alt="pinia logo" />
+  <img width="12" />
+  <img src="https://tohsoluciones.com/wp-content/uploads/2020/06/SAP-ABAP.jpg" height="40" alt="pinia logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" height="40" alt="nextjs logo" />
   <img width="12" />
