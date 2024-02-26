@@ -71,8 +71,9 @@
 
 ###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Dzikri-Ardafi&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
 
-###
+  <div align="center" style="display: flex; justify-content: center">
+    <img src="https://streak-stats.demolab.com?user=Dzikri-Ardafi&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+<!--     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dzikri-ardafi&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/> -->
+<!--      <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dzikri-ardafi&layout=compact&langs_count=8&theme=algolia"/> -->
+</div>
